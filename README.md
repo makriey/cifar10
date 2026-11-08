@@ -33,4 +33,4 @@ Training runs on the CPU and takes a few minutes.
 
 ## Status
 
-This is a basic learning project. The model is simple and has no data augmentation or regularization, so it slightly overfits after about 8 epochs.
+This is an old version and is no longer developed.
